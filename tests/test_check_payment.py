@@ -4,8 +4,8 @@ from tests.base_forumpay_test import BaseForumPayTest
 class TestCheckPayment(BaseForumPayTest):
 
     def test_check_payment(self):
-        payment_id = '8efd2074-4f55-4c65-914f-fdf4d4a2816b'
-        address = 'btc-e743879a2c5e460abf507887666b81bc'
+        payment_id = 'e83b7dc1-33e3-4357-bfe5-9e00fc62cfdb'
+        address = 'btc-511e5d644a8849e29e1ad4c46d6e727f	'
         pos_id = 'widget'
         currency = 'BTC'
 
